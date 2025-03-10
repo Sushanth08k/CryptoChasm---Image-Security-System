@@ -19,7 +19,7 @@ The application provides a clean, intuitive interface with three main sections:
 3. **Encrypted Images**: View encrypted images and decrypt them with one click
 4. **Decrypted Images**: View successfully decrypted images
 
-![CryptoChasm UI](https://github.com/yourusername/cryptochasm/raw/main/docs/ui-example.png)
+![CryptoChasm UI](https://github.com/yourusername/cryptochasm/raw/main/docs/ui-example.png.png)
 
 *Note: Replace the image URL with your actual screenshot location after uploading to your repository*
 
